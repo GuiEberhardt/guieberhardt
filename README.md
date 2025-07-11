@@ -1,30 +1,30 @@
-# 👋 Olá! Eu sou o Guilherme Eberhardt
+# 👋 Hello! I'm Guilherme Eberhardt
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Process+Automation+Specialist;ETL+Expert;Full-Stack+Developer;Emergency+Response+Volunteer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor Python e Especialista em Automação de Processos com foco em soluções end-to-end que trazem eficiência e escalabilidade para operações corporativas. Atualmente trabalho como **Estagiário de Automação de Finanças** na **Dell Technologies**, desenvolvendo soluções baseadas em IA para extração e processamento de dados.
+Python Developer and Process Automation Specialist focused on end-to-end solutions that bring efficiency and scalability to corporate operations. Currently working as a **Finance Automation Intern** at **Dell Technologies**, developing AI-based solutions for data extraction and processing.
 
-- 🎓 **Graduando** em Análise e Desenvolvimento de Sistemas (Unisinos)
+- 🎓 **Student** in Systems Analysis and Development (Unisinos)
 - 💼 **Dell Technologies** - Finance Automation Intern
-- 🚑 **Voluntário** no GRAVE Resgate - Socorrista e Desenvolvedor de Sistemas
-- 📍 **Gravataí, RS - Brasil**
+- 🚑 **Volunteer** at GRAVE Rescue - Paramedic and Systems Developer
+- 📍 **Gravataí, RS - Brazil**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 Automação & RPA
+### 🤖 Automation & RPA
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6600?style=for-the-badge&logo=automationanywhere&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -53,33 +53,33 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
 
 ---
 
-## 📈 Competências Dashboard
+## 📈 Skills Dashboard
 
 <div align="center">
 
-### 🎯 Principais Especialidades
+### 🎯 Main Specialties
 
-| **Área** | **Competência** | **Nível** | **Experiência** |
-|----------|-----------------|-----------|-----------------|
-| 🐍 **Python Development** | Automação & ETL | ████████░░ 80% | 2+ anos |
-| 🤖 **Process Automation** | RPA & Power Platform | █████████░ 90% | 1.5+ anos |
-| 📊 **Data Analytics** | Power BI & SQL | ████████░░ 80% | 2+ anos |
-| 🌐 **Full-Stack Development** | React Native & Node.js | ███████░░░ 70% | 1+ ano |
-| ☁️ **Cloud & Monitoring** | Splunk & API Management | ██████░░░░ 60% | 1+ ano |
+| **Area** | **Skill** | **Level** | **Experience** |
+|----------|-----------|-----------|----------------|
+| 🐍 **Python Development** | Automation & ETL | ████████░░ 80% | 2+ years |
+| 🤖 **Process Automation** | RPA & Power Platform | █████████░ 90% | 1.5+ years |
+| 📊 **Data Analytics** | Power BI & SQL | ████████░░ 80% | 2+ years |
+| 🌐 **Full-Stack Development** | React Native & Node.js | ███████░░░ 70% | 1+ year |
+| ☁️ **Cloud & Monitoring** | Splunk & API Management | ██████░░░░ 60% | 1+ year |
 
-### 🏆 Certificações
+### 🏆 Certifications
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Automation_Anywhere-Certified-FF6600?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="AA Certified"/>
       <br><sub><b>RPA Certified</b></sub>
-      <br><sub>Dez 2024</sub>
+      <br><sub>Dec 2024</sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Splunk-Core_Certified-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Certified"/>
       <br><sub><b>Power User</b></sub>
-      <br><sub>Set 2024</sub>
+      <br><sub>Sep 2024</sub>
     </td>
   </tr>
 </table>
@@ -88,10 +88,10 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 🏥 [GRAVE Resgate - Sistema de Gestão de Emergências](https://github.com/guieberhardt/grave-resgate)
-**Plataforma completa de gestão para voluntários de resgate de emergência**
+### 🏥 [GRAVE Rescue - Emergency Management System](https://github.com/guieberhardt/grave-resgate)
+**Complete management platform for emergency rescue volunteers**
 
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -100,13 +100,13 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
 
-- **📱 App Mobile**: Gestão de plantões, formulários de emergência e checklists
-- **🔧 REST API**: Autenticação JWT, sincronização em tempo real
-- **📜 Gerador de Certificados**: Sistema web para certificados em lote
-- **🚑 Impacto**: Sistema completo para organização de +50 voluntários
+- **📱 Mobile App**: Shift management, emergency forms, and checklists
+- **🔧 REST API**: JWT authentication, real-time synchronization
+- **📜 Certificate Generator**: Web system for bulk certificates
+- **🚑 Impact**: Complete system for managing 50+ volunteers
 
-### 🏢 Soluções de Automação - Dell Technologies
-**Automação end-to-end para Operações Financeiras LATAM**
+### 🏢 Automation Solutions - Dell Technologies
+**End-to-end automation for LATAM Financial Operations**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -115,10 +115,10 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
   <img src="https://img.shields.io/badge/AI/ML-00D4AA?style=flat-square&logo=tensorflow&logoColor=white"/>
 </div>
 
-- **🤖 IA**: Sistemas de extração de informações baseados em IA
-- **📊 Dashboards**: Power BI para análise financeira e relatórios
-- **⚡ Automação**: Power Apps e Power Automate para otimização de workflows
-- **🔍 Monitoramento**: Splunk para observabilidade e resolução proativa
+- **🤖 AI**: AI-based information extraction systems
+- **📊 Dashboards**: Power BI for financial analysis and reporting
+- **⚡ Automation**: Power Apps and Power Automate for workflow optimization
+- **🔍 Monitoring**: Splunk for observability and proactive resolution
 
 ---
 
@@ -135,23 +135,23 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
 
 ---
 
-## 🌟 Experiência Profissional
+## 🌟 Professional Experience
 
 ### 💼 **Dell Technologies** | *Process Automation Intern - Finance*
-**Jun 2024 - Presente (1 ano 1 mês)**
-- Liderando iniciativas de automação em equipes de Finanças LATAM
-- Desenvolvendo soluções alimentadas por IA para extração e processamento de dados
-- Gerenciando ciclo completo de projetos desde requisitos até implantação
+**Jun 2024 - Present (1 year 1 month)**
+- Leading automation initiatives in LATAM Finance teams
+- Developing AI-powered solutions for data extraction and processing
+- Managing complete project lifecycle from requirements to deployment
 
-### 🏥 **GRAVE Resgate Voluntário** | *Socorrista & Segundo Secretário*
-**Mai 2021 - Presente (4 anos 2 meses)**
-- Atendimento pré-hospitalar em emergências e acidentes
-- Desenvolvimento e manutenção de sistema completo de gestão digital
-- Gestão de documentação institucional e marketing
+### 🏥 **GRAVE Volunteer Rescue** | *Paramedic & Second Secretary*
+**May 2021 - Present (4 years 2 months)**
+- Pre-hospital emergency and accident response
+- Development and maintenance of complete digital management system
+- Management of institutional documentation and marketing
 
 ---
 
-## 🎯 Metodologias & Processos
+## 🎯 Methodologies & Processes
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=azure-devops&logoColor=white"/>
@@ -162,7 +162,7 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
 
 ---
 
-## 📞 Vamos Conectar!
+## 📞 Let's Connect!
 
 <div align="center">
   <a href="https://linkedin.com/in/guieberhardt" target="_blank">
@@ -183,7 +183,7 @@ Desenvolvedor Python e Especialista em Automação de Processos com foco em solu
   
   <br><br>
   
-  **💡 "Transformando processos através da tecnologia e salvando vidas através do voluntariado"**
+  **💡 "Transforming processes through technology and saving lives through volunteering"**
   
   <br>
   
