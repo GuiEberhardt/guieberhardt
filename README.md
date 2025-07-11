@@ -186,6 +186,5 @@ Python Developer and Process Automation Specialist focused on end-to-end solutio
   **💡 "Transforming processes through technology and saving lives through volunteering"**
   
   <br>
-  
-  ![Snake animation](https://github.com/guieberhardt/guieberhardt/blob/output/github-contribution-grid-snake.svg)
+
 </div>
